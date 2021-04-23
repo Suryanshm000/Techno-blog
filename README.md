@@ -6,17 +6,17 @@ Clone this repo
 git clone https://github.com/Suryanshm000/Techno-blog.git
 
 Enter the cloned repo
-cd Django-basicForms
+cd Techno-blog
 
 # Install Django in the system
 pip install django
 
-Install necessary Python packages
+ Install necessary Python packages \
 pip install -r requirements.txt
 
-\ Create the database and perform all migrations
-\ Database file "thetechblog.sqlite3" will be created
+\ Create the database and perform all migrations \
+\ Database file "thetechblog.sqlite3" will be created \
 python manage.py migrate
 
-Start the server
+Start the server \
 python manage.py runserver
