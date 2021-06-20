@@ -6,16 +6,36 @@
 
 body{
   background-color: #d7dee9;
+  /* display: flex;
+  flex-direction: column;
+  min-height: 100%; */
 }
 nav{
   background-color: #21295C;
-  
 }
 
 nav div a{
   color: #ebe4e5;
 }
+.content{
+  
+}
 
+footer{
+  background-color:rgb(37, 34, 34);
+  color: white;
+  /* position: absolute; */
+  /* bottom: 0; */
+  min-width:100%;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+footer div a{
+  text-decoration:none;
+
+}
 .postdate{
   text-align: center;
 }
@@ -43,6 +63,20 @@ nav div a{
 
 .bigbrand{
   font-size: 1.5em;
+}
+
+@media(max-width:700px){
+  .content{
+    /* position: relative;
+    min-height: 100%; */
+  }
+  footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  
 }
 
 
