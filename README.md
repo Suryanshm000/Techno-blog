@@ -1,11 +1,16 @@
 # Techno-blog
 
+I have deployed my project on Heroku server you can access through the link.
+
+Here is the link for mytechno-blog : https://mytechno-blog.herokuapp.com 
+
+# For local host
 Installation. Pre-requisites including Git, Python 3.4x or newer, pip. To obtain a blank site, these are the steps to follow:
 
 Clone this repo
 git clone https://github.com/Suryanshm000/Techno-blog.git
 
-Enter the cloned repo
+Enter the cloned repo\
 cd Techno-blog
 
 # Install Django in the system
