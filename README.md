@@ -31,3 +31,12 @@ Create the database and perform all migrations (Database file "thetechblog.sqlit
 Start the server
 <br>
 `python manage.py runserver`
+
+# Snapshots
+
+![t1](https://github.com/Suryanshm000/Techno-blog/assets/65828169/df52efff-874d-4a80-a0d4-77c82ce9c79a)
+
+![t2](https://github.com/Suryanshm000/Techno-blog/assets/65828169/3317c503-2df5-41c6-8c16-e0adfb122bf6)
+
+![t3](https://github.com/Suryanshm000/Techno-blog/assets/65828169/2510434d-6417-4454-9878-bd6d03ca617e)
+
